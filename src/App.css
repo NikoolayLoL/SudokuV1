@@ -1,0 +1,16 @@
+/* Parent container styles */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fdfffd;
+    font-family: Arial, sans-serif;
+    flex-direction: column;
+}
+
+
+
+
